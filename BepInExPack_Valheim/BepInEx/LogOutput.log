@@ -1,0 +1,483 @@
+[Message:   BepInEx] BepInEx 5.4.23.5 - valheim (9/21/2026 10:35:37 AM)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2350 from Thunderstore
+[Info   :   BepInEx] Running under Unity v6000.0.75.2503836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.5]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Valheim Plus 0.10.2.0]
+[Info   :Valheim Plus] Valheim game version: 1.0.15
+[Info   :Valheim Plus] Valheim Plus dll file location: 'C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\plugins\ValheimPlus\ValheimPlus.dll'
+[Info   :Valheim Plus] 0 settings differ from their default:
+[Info   :Valheim Plus] Configuration Manager is not installed. Settings can still be changed by editing the config file, which takes effect on the next launch.
+[Info   :Valheim Plus] Configuration loaded successfully from 'C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\org.bepinex.plugins.valheim_plus.cfg'.
+[Info   :Valheim Plus] ValheimPlus [0.10.2.0] is up to date.
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 09/21/2026 10:48:11: Using environment steamid 892970
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Using steam APPID:892970
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 09/21/2026 10:48:11: 2026-09-21 10:48:11:144: Using environment steamid 892970
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Initialized platform!
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Initializing PrivilegeManager.
+
+[Info   : Unity Log] 09/21/2026 10:48:11: All files in local storage save data:
+C:/Users/09058/AppData/LocalLow/IronGate/Valheim\Player-prev.log (19800)
+C:/Users/09058/AppData/LocalLow/IronGate/Valheim\Player.log (3643)
+
+[Info   : Unity Log] 09/21/2026 10:48:11: All files in platform save data:
+characters/kelgar.fch.old (16054)
+characters/kelgar_backup_auto-20230107122612.fch (14996)
+characters/kelgar_backup_auto-20230107220419.fch (14999)
+characters/kelgar_backup_auto-20230112232447.fch (15182)
+characters/kelgar_backup_auto-20230113013753.fch (16054)
+characters/warren.fch (21439)
+characters/warren.fch.old (21425)
+characters/warren_backup_auto-20231223164235.fch (21169)
+characters/warren_backup_auto-20231225235638.fch (20802)
+characters/warren_backup_auto-20231230232055.fch (21602)
+characters/warren_backup_auto-20231231013215.fch (21622)
+serverlist/favorite (178)
+serverlist/favorite.old (119)
+serverlist/recent (178)
+serverlist/recent.old (178)
+characters/expo.fch (9041)
+characters/expo_backup_auto-20260921-102843.fch (9041)
+worlds/aDFASDa/_main.0.fwl2 (52)
+characters/expo.fch.old (9041)
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Initializing preferences provider...
+
+[Info   : Unity Log] 09/21/2026 10:48:11: No preference provider available for this platform!
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Set background loading budget to Low
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loading first scene!
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Fast load set to True
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Fast load counter set to 1
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Preferences initialized! Activating first scene!
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loading: Starting to load scene: start.unity (169d7618616154c03be07e9ad3af5893)
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Fast load counter set to 2
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Set background loading budget to Normal
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #3 - 'localization_witch' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #5 - 'localization_deepnorth' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #6 - 'localization_captions' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #7 - 'localization_warriortitles' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #8 - 'localization_combatupdate' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #9 - 'localization_ps' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #10 - 'localization_celebrationupdate' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #11 - 'localization_xbox' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Loaded localization file #12 - 'localization_switch' language: 'English'
+
+[Info   : Unity Log] 09/21/2026 10:48:11: Fast load counter set to 1
+
+[Info   : Unity Log] 09/21/2026 10:48:15: Set background loading budget to High
+
+[Info   : Unity Log] 09/21/2026 10:48:15: GPU Device: 10DE:2704 (NVIDIA)
+
+[Info   : Unity Log] 09/21/2026 10:48:15: Loading: Done, Total time: -4.3296053
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Set background loading budget to Low
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] 09/21/2026 10:48:16: Missing audio clip in music respawn
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Steam initialized, persona:ex3po
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Valheim version: 1.0.15 (network version 40)
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Worldgenerator version setup:2
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Render threading mode:LegacyJobified
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Checking for installed DLCs
+
+[Info   : Unity Log] 09/21/2026 10:48:16: DLC:beta installed:False
+
+[Info   : Unity Log] 09/21/2026 10:48:16: SaveSystem.Reload for Character is done [7ms]
+
+[Info   : Unity Log] 09/21/2026 10:48:16: SaveSystem.Reload for World is done [2ms]
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Playing cinematic: $cinematics_intro
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Session auth respons callback
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Fast load set to False
+
+[Info   : Unity Log] 09/21/2026 10:48:16: Fast load counter set to 0
+
+[Info   : Unity Log] 09/21/2026 10:48:17: Logged in PlayFab user via Steam auth session ticket
+
+[Info   : Unity Log] 09/21/2026 10:48:17: PlayFab local entity ID is F2F8D24E7C84E558
+
+[Info   : Unity Log] 09/21/2026 10:48:17: Released session ticket
+
+[Info   : Unity Log] 09/21/2026 10:48:18: Starting music menu
+
+[Info   : Unity Log] 09/21/2026 10:48:21: show character selection
+
+[Info   : Unity Log] 09/21/2026 10:48:22: OnCharacterStart "expo"
+
+[Info   : Unity Log] 09/21/2026 10:48:23: Saved favorite servers list with result SuccessNoWriteNeeded
+
+[Info   : Unity Log] 09/21/2026 10:48:23: Saved recent servers list with result SuccessNoWriteNeeded
+
+[Info   : Unity Log] 09/21/2026 10:48:23: PlayFab lobby matching search filter 'string_key10 eq '173.237.58.76:28500' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 09/21/2026 10:48:25: Added server with name game.thefellers.xyz:2456 to server list
+
+[Info   : Unity Log] 09/21/2026 10:48:25: Failed to get join server data
+
+[Info   : Unity Log] 09/21/2026 10:48:26: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:27: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:27: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:27: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:27: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:28: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:28: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:28: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:28: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:29: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:29: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:29: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:29: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:30: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:30: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:30: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:30: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 09/21/2026 10:48:31: PlayFab lobby matching search filter 'string_key10 eq '73.140.144.128:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Determined backend of dedicated server to be Steamworks
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Loading main scene
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Fast load set to True
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Fast load counter set to 1
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Saved favorite servers list with result SuccessNoWriteNeeded
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Cloud Save: 178 bytes. /serverlist/recent.new
+
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (178 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (178 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (178 bytes)
+[Info   : Unity Log] 09/21/2026 10:48:31: Saved recent servers list with result Succeess
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Audioman already exist, destroying self
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Steam initialized, persona:ex3po
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Loading player profile expo
+
+[Info   : Unity Log] 09/21/2026 10:48:31: isModded: True
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Zonesystem Awake 1145
+
+[Info   : Unity Log] 09/21/2026 10:48:31: DungeonDB Awake 1145
+
+[Info   : Unity Log] 09/21/2026 10:48:31: Steam initialized, persona:ex3po
+
+[Info   :Valheim Plus] Registered 435 settings for server sync.
+[Info   : Unity Log] 09/21/2026 10:48:31: Checking for installed DLCs
+
+[Info   : Unity Log] 09/21/2026 10:48:31: DLC:beta installed:False
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Zonesystem Start 1145
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Added 2 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Added 25 locations, 35 vegetations, 12 environments, 1 biome env-setups, 2 clutter  from main
+
+[Info   : Unity Log] 09/21/2026 10:48:32: DungeonDB Start 1145
+
+[Info   : Unity Log] 09/21/2026 10:48:32: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Loading: ZNet Start
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Connecting to server with Steam-backend 73.140.144.128:2456
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Starting to connect to 73.140.144.128:2456
+
+[Info   : Unity Log] Sending Valheim Plus version 0.10.2.0 and minimum version 0.10.2.0 to the server.
+[Info   : Unity Log] Received Valheim Plus version 0.10.2.0 and minimum version 0.10.2.0 from the server.
+[Info   : Unity Log] 09/21/2026 10:48:32: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 09/21/2026 10:48:32: New connection
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Connected
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Got connection SteamID 90293157431880719
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Fast load set to False
+
+[Info   : Unity Log] 09/21/2026 10:48:32: Fast load counter set to 0
+
+[Info   : Unity Log] Received 435 configs and 0 custom values from the server for mod Valheim Plus
+[Info   : Unity Log] 09/21/2026 10:48:36: Network version check, their:40, mine:40
+
+[Info   : Unity Log] 09/21/2026 10:48:36: Worldgenerator version setup:2
+
+[Info   : Unity Log] 09/21/2026 10:48:41: client got keys 4
+
+[Info   : Unity Log] 09/21/2026 10:48:41: client got location icons
+
+[Info   : Unity Log] 09/21/2026 10:48:41: Icons:1
+
+[Info   : Unity Log] 09/21/2026 10:48:41: Checking for any blocked players in the historical player list...
+
+[Info   :Valheim Plus] Received config from the server, re-applying patches.
+[Info   :Valheim Plus] 12 settings changed since patches were last applied:
+[Info   :Valheim Plus]   [CraftFromChest] enabled: False -> True
+[Info   :Valheim Plus]   [CraftFromChest] range: 20 -> 40
+[Info   :Valheim Plus]   [CraftFromChest] allowCraftingFromCarts: False -> True
+[Info   :Valheim Plus]   [CraftFromChest] allowCraftingFromShips: False -> True
+[Info   :Valheim Plus]   [Game] difficultyScaleRange: 100 -> 200
+[Info   :Valheim Plus]   [Items] noTeleportPrevention: False -> True
+[Info   :Valheim Plus]   [Player] deathPenaltyMultiplier: 0 -> -20
+[Info   :Valheim Plus]   [Player] disableEightSecondTeleport: False -> True
+[Info   :Valheim Plus]   [Server] maxPlayers: 10 -> 20
+[Info   :Valheim Plus]   [StaminaUsage] enabled: False -> True
+[Info   :Valheim Plus]   [StaminaUsage] axes: 0 -> -10
+[Info   :Valheim Plus]   [StaminaUsage] pickaxes: 0 -> -10
+[Info   : Unity Log] 09/21/2026 10:48:42: Session auth respons callback
+
+[Info   : Unity Log] 09/21/2026 10:48:47: Generating new world minimap done [4796ms]
+
+[Info   : Unity Log] 09/21/2026 10:48:47: Starting respawn
+
+[Info   : Unity Log] 09/21/2026 10:48:47: Show intro 1445
+
+[Info   : Unity Log] 09/21/2026 10:48:47: Show text YOU DIED:Long ago, the Allfather Oden united the worlds. He threw down his foes and cast them into the tenth world, then split the boughs which held their prison to the World-Tree, and left it to drift unanchored, a place of exile…
+
+
+
+For centuries, this world slumbered uneasily. But it did not die... As glacial ages passed, kingdoms rose and fell out of sight of the Gods.
+
+
+
+When Oden heard his enemies were growing once again in strength, he looked to Midgard and sent his Valkyries to scour the battlefields for the greatest of their warriors. Dead to the world, they would be born again…
+
+
+
+…in VALHEIM!
+
+[Info   : Unity Log] 09/21/2026 10:48:47: Starting music intro
+
+[Info   : Unity Log] 09/21/2026 10:48:47: tip:$loadscreen_tip01
+
+[Info   : Unity Log] 09/21/2026 10:48:49: Checking for any blocked players in the historical player list...
+
+[Info   : Unity Log] 09/21/2026 10:48:50: Force generating hmap (-192.00, 0.00, 128.00)
+
+[Info   : Unity Log] 09/21/2026 10:48:51: Setting up valkyrie 
+
+[Info   : Unity Log] 09/21/2026 10:48:51: World pos (397.56, 190.00, -332.87)   (397.40, 189.61, -333.15)
+
+[Warning: Unity Log] 09/21/2026 10:48:51: Character ID for player ([Expo, 0:0], [ex3po, Steam_76561198078450463, AB1DF0EFF5B770A], ex3po) was 0:0. Skipping.
+
+[Info   : Unity Log] 09/21/2026 10:48:51: Skipping unloading unused assets
+
+[Info   : Unity Log] 09/21/2026 10:48:51: Minimap: Adding unique location (-260.36, 35.43, 122.26)
+
+[Info   : Unity Log] 09/21/2026 10:48:51: SpawnPrefab StoneSpawner_TheQueen SPAWNING BossStone_TheQueen
+
+[Info   : Unity Log] 09/21/2026 10:48:51: SpawnPrefab StoneSpawner_Fader SPAWNING BossStone_Fader
+
+[Info   : Unity Log] 09/21/2026 10:48:51: SpawnPrefab StoneSpawner_StartPlatform SPAWNING StartPlatform
+
+[Info   : Unity Log] 09/21/2026 10:48:51: SpawnPrefab StoneSpawner_Valkyrie_End SPAWNING Valkyrie_End
+
+[Info   : Unity Log] 09/21/2026 10:48:52: Activating default element Continue
+
+[Info   : Unity Log] 09/21/2026 10:48:53: Activating default element Continue
+
+[Info   : Unity Log] 09/21/2026 10:48:54: We are here
+
+[Info   : Unity Log] 09/21/2026 10:48:54: Starting respawn
+
+[Info   : Unity Log] 09/21/2026 10:48:54: Destroying valkyrie
+
+[Warning: Unity Log] 09/21/2026 10:48:54: Local player destroyed
+
+[Info   : Unity Log] 09/21/2026 10:48:54: tip:$loadscreen_tip10
+
+[Info   : Unity Log] 09/21/2026 10:48:55: Force generating hmap (-192.00, 0.00, 128.00)
+
+[Info   : Unity Log] 09/21/2026 10:48:55: Force generating hmap (-384.00, 0.00, 256.00)
+
+[Info   : Unity Log] 09/21/2026 10:48:56: Skipping unloading unused assets
+
+[Info   : Unity Log] 09/21/2026 10:49:05: Spawned Deer x 3
+
+[Info   : Unity Log] 09/21/2026 10:49:05: Spawned Deer x 3
+
+[Info   : Unity Log] 09/21/2026 10:49:05: Spawned Boar x 3
+
+[Info   : Unity Log] 09/21/2026 10:49:05: Spawned Neck x 3
+
+[Info   : Unity Log] 09/21/2026 10:49:07: Activating default element Continue
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Starting music morning
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Available space to current user: 377256583168. Saving is blocked if below: 209733282 bytes. Warnings are given if below: 419466564
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Game - OnApplicationQuit
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Available space to current user: 377256583168. Saving is blocked if below: 209733282 bytes. Warnings are given if below: 419466564
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Shutting down
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Fast load set to True
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Fast load counter set to 1
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Minimap: compressed mapData 8388617 => 8255 bytes
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Cloud Save: 17996 bytes. /characters/expo.fch.new
+
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (17996 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (9041 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (17996 bytes)
+[Info   : Unity Log] 09/21/2026 10:49:09: Considering autobackup for Character. World time: 26.31999, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Fast load set to False
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Fast load counter set to 0
+
+[Info   : Unity Log] 09/21/2026 10:49:09: ZNet Shutdown
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Unloading unused assets
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Sending disconnect msg
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Sent to 90293157431880719
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Released session ticket
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+[Info   : Unity Log] 09/21/2026 10:49:09: Disposing socket
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Closing socket 90293157431880719
+
+[Info   : Unity Log] 09/21/2026 10:49:09:   send queue size:0
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Last socket, unregistering callback
+
+[Info   : Unity Log] 09/21/2026 10:49:09: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Disposing socket
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Last socket, unregistering callback
+
+[Info   : Unity Log] 09/21/2026 10:49:09: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 09/21/2026 10:49:09: Stopping build thread
+
+[Info   : Unity Log] 09/21/2026 10:49:12: ZNet OnDestroy
+
+[Info   : Unity Log] 09/21/2026 10:49:12: Net scene destroyed
+
+[Warning: Unity Log] 09/21/2026 10:49:12: Local player destroyed
+
+[Info   : Unity Log] 09/21/2026 10:49:12: Steam manager on destroy
+
